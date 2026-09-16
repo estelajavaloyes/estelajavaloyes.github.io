@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://estelajavaloyes.github.io/sitemap.xml
